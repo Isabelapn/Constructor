@@ -1,0 +1,13 @@
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\bin\Debug\netcoreapp3.1\Construtor.exe
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\bin\Debug\netcoreapp3.1\Construtor.deps.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\bin\Debug\netcoreapp3.1\Construtor.runtimeconfig.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\bin\Debug\netcoreapp3.1\Construtor.runtimeconfig.dev.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\bin\Debug\netcoreapp3.1\Construtor.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\bin\Debug\netcoreapp3.1\Construtor.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\obj\Debug\netcoreapp3.1\Construtor.csprojAssemblyReference.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\obj\Debug\netcoreapp3.1\Construtor.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\obj\Debug\netcoreapp3.1\Construtor.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\obj\Debug\netcoreapp3.1\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\obj\Debug\netcoreapp3.1\Construtor.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\obj\Debug\netcoreapp3.1\Construtor.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\MembrosEstáticosInstancias\Construtor\Construtor\obj\Debug\netcoreapp3.1\Construtor.genruntimeconfig.cache
